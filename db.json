@@ -1,7 +1,124 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+    {
+      "id": 1,
+      "title": "Asus Zenbook pro",
+      "img": "https://www.asus.com/media/Odin/Websites/global/Series/9.png",
+      "price": 84910,
+      "ratings": 4,
+      "discription": "Whether it's working on a presentation, streaming movies and music, or playing games, the Asus ZenBook Pro 15 is your ideal companion for work or play. Featuring an awe-inspiring design, the NanoEdge 4K UHD Ultraslim-bezel Display, an 8th Generation Intel Core i9 hexa-core processor, and a powerful Li-ion battery, this laptop brings to you the best of both worlds in terms of style and performance."
+    },
+    {
+      "id": 2,
+      "title": "Sony PlayStation 5",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1610107735/Croma%20Assets/Gaming/Gaming%20Consoles/Images/231643_eezzze.png/mxw_640,f_auto",
+      "price": 45290,
+      "ratings": 4.5,
+      "discription": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback1, adaptive triggers1 and 3D Audio*, and an all-new generation of incredible PlayStation games."
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 14 Pro ",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png/mxw_640,f_auto",
+      "price": 112000,
+      "ratings": 4,
+      "discription": "The iPhone 14 Pro represents a duality, both as something  extremely similar to its predecessor while also being simultaneously new. It features a lot of camera upgrades and the Dynamic Island, which replaces the infamous notch five years after the notch’s debut on the iPhone X."
+    },
+    {
+      "id": 4,
+      "title": "Sony WH-1000XM5 headphones",
+      "img": "https://www.sony-asia.com/image/86ef18640c4199cc7ce7150a5143460a?fmt=png-alpha&wid=660&hei=660",
+      "price": 29990,
+      "ratings": 4,
+      "discription": "Industry Leading noise cancellation-two processors control 8 microphones for unprecedented noise cancellation. With Auto NC Optimizer, noise cancelling is automatically optimized based on your wearing conditions and environment."
+    },
+    {
+      "id": 5,
+      "title": "Samsung 4k smart tv",
+      "img": "https://media.croma.com/image/upload/v1663785341/Croma%20Assets/Entertainment/Television/Images/252006_0_wzdpx1.png",
+      "price": 61500,
+      "ratings": 5,
+      "discription": "Indulge yourself in a world of infinite visual entertainment with the one-of-a-kind Samsung TV, which is packed with captivating features and will take your breath away with its remarkable performance. This TV offers a brilliant colour-enriched picture that brings out the best in every piece of material it displays, providing a fantastic viewing experience. Furthermore, when put in the living room, this TV attracts all of the attention it deserves because of its sleek, modern, and fantastic appearance. Furthermore, the Auto Low Latency Mode on this TV optimises your screen so you have better flexibility with decreased input lag."
+    },
+    {
+      "id": 6,
+      "title": "Sofa",
+      "img": "https://images.rawpixel.com/image_png_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00MDUtZTIwLnBuZw.png?s=Ojg7cbCyafQK6URkpiry0djHrxg9-4Zmf6XFwkEU-Ug",
+      "price": 21053,
+      "ratings": 3,
+      "discription": "The sofa frame is made from seasoned solid wood that undergoes multi-step treatment for protection against termites and bugs."
+    },
+    {
+      "id": 7,
+      "title": "LG washing machine",
+      "img": "https://i.pinimg.com/originals/a1/86/a6/a186a634b72605d77b5e2193fdc44a0a.jpg",
+      "price": 25990,
+      "ratings": 4,
+      "discription": "Using the LG FHM1207SDL 7 kg Fully Automatic Front-loading Washing Machine makes washing clothing quick and easy. It features Allergy Care that eliminates the majority of viruses and ensures a sanitary wash each time. Also, the motor is directly attached to the drum, which eliminates the need for a pulley or belt, decreasing energy wastage, vibrations and noise. Furthermore, the 6 Motion DD technology optimises the washing motion according to the fabric type."
+    },
+    {
+      "id": 8,
+      "title": "Bed",
+      "img": "https://toppng.com/uploads/preview/bed-11530929510pr5bs60b9a.png",
+      "price": 32092,
+      "ratings": 5,
+      "discription": "The Wakeup Pluto Wood Bed is comfortable and roomy. This traditional piece of furniture has plenty of storage space, making it the ideal bed for you. The beds quality appearance and feel are unrivaled. This is a timeless piece of furniture that you should not ignore. Its elegance will never leave the bedroom. Its modern yet traditional wooden attire will fill the place with scenic beauty."
+    },
+    {
+      "id": 9,
+      "title": "Asics men shoes",
+      "img": "https://img.favpng.com/7/24/18/sports-shoes-asics-gel-galaxy-9-mens-running-shoes-png-favpng-G3wdiFtu7mcxH8u9Jjz55c7ue.jpg",
+      "price": 3578,
+      "ratings": 4,
+      "discription": "The dynablast running shoe comfortably locks the shoe around the foot like a gentle hug. This design means there are fewer layers of material, resulting in a light, breathable upper. The upper, combined with a responsive underfoot ride, makes this new dynablast style feel springy and energetic. It is recommend for runners who want a fun underfoot experience in their training."
+    },
+    {
+      "id": 10,
+      "title": "Tshirt",
+      "img": "https://www.triumph-sports.com/wp-content/uploads/2019/05/D23-2-1.jpg",
+      "price": 780,
+      "ratings": 5,
+      "discription": "Built on the pillars of quality, reliability and affordability to offer you lifestyle essentials that never go out of fashion. Never out of style, Symbol’s classic stripe polo t-shirt, comes in an easy, regular fit. Ribbed collar & sleeves provide a better grip and accent color stripe at collar and sleeve adds to the sporty look.."
+    },
+    {
+      "id": 11,
+      "title": "Office chair",
+      "img": "https://freepngimg.com/save/523-office-chair-png-image/756x1102",
+      "price": 5699,
+      "ratings": 3,
+      "discription": "Da URBAN Mid-Back Office Chair This Da URBAN Mid-Back Office Chair is made with quality materials that will never bend, break or malfunction. Our chairs are crafted to perfection and designed to the bodies natural shape, Cushioned backrest designed and seat upholstered in leather make you feel comfortable during long time working. Great Office chairs in office, conference, home, colleague, reception desk, etc. Passed BIFMA certification, more reliable and sturdy for your daily working."
+    },
+    {
+      "id": 12,
+      "title": "Logitech MX master mouse",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1659190314/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/258454_yxkufr.png/mxw_640,f_auto",
+      "price": 10995,
+      "ratings": 4,
+      "discription": "You can work, play games, and do more effortlessly with the help of the Logitech MX Master 3S Wireless Mouse. Thanks to its high performance, this mouse offers optimal results. With up to 8k DPI tracking, this mouse can function smoothly on any surface including glass. In addition, owing to its MagSpeed control, this mouse can work at high speeds with utmost accuracy as it scrolls up to 1,000 lines per second and stops at a pixel."
+    },
+    {
+      "id": 13,
+      "title": "Whirlpool 265L refrigerator",
+      "img": "https://toppng.com/uploads/preview/american-refrigerator-11552762505ejtlqvqrtu.png",
+      "price": 28690,
+      "ratings": 4,
+      "discription": "With this Whirlpool refrigerator in your home, eat fresh food every single day to live a healthy and happy life. This refrigerator features the Adaptive Intelligence technology, the IntelliSense Inverter Technology, and the Zeolite Technology for consistent cooling and long-lasting freshness of your edibles.."
+    },
+    {
+      "id": 14,
+      "title": "Study table",
+      "img": "https://w7.pngwing.com/pngs/896/578/png-transparent-table-furniture-desk-room-study-study-desk-angle-furniture-child-thumbnail.png",
+      "price": 9490,
+      "ratings": 5,
+      "discription": "Compact Home Office Create the perfect work space comprising a generous desk and plenty of shelves with this work table and storage unit combo. The simple contemporary design of this piece is perfect for small spaces, making it a great addition to a student's bedroom and office table."
+    },
+    {
+      "id": 15,
+      "title": "Philips air fryer",
+      "img": "https://toppng.com/uploads/preview/aldi-air-fryer-11563363296o5r3pvvvvt.png",
+      "price": 8900,
+      "ratings": 5,
+      "discription": "This cooking appliance features a Detachable Non-stick Basket and Pan for your convenience, a Fast Air Circulation Technology for quick and even cooking, and Adjustable Temperature and Time functions to cook as per your preferences.."
+    }
   ]
 }

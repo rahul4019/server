@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "title": "Sony WH-1000XM5 headphones",
+      "title": "Sony headphones",
       "img": "https://www.sony-asia.com/image/86ef18640c4199cc7ce7150a5143460a?fmt=png-alpha&wid=660&hei=660",
       "price": 29990,
       "ratings": 4,
@@ -90,7 +90,7 @@
     },
     {
       "id": 12,
-      "title": "Logitech MX master mouse",
+      "title": "Logitech mouse",
       "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1659190314/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/258454_yxkufr.png/mxw_640,f_auto",
       "price": 10995,
       "ratings": 4,
@@ -98,7 +98,7 @@
     },
     {
       "id": 13,
-      "title": "Whirlpool 265L refrigerator",
+      "title": "Whirlpool refrigerator",
       "img": "https://toppng.com/uploads/preview/american-refrigerator-11552762505ejtlqvqrtu.png",
       "price": 28690,
       "ratings": 4,

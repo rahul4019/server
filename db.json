@@ -13,16 +13,16 @@
       "title": "Sony PlayStation 5",
       "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1610107735/Croma%20Assets/Gaming/Gaming%20Consoles/Images/231643_eezzze.png/mxw_640,f_auto",
       "price": 45290,
-      "ratings": 4.5,
+      "ratings": 3,
       "description": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback1, adaptive triggers1 and 3D Audio*, and an all-new generation of incredible PlayStation games."
     },
     {
-      "id": 3,
-      "title": "Apple iPhone 14 Pro ",
-      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png/mxw_640,f_auto",
-      "price": 112000,
+      "id": 13,
+      "title": "Whirlpool refrigerator",
+      "img": "https://5.imimg.com/data5/QT/FB/MY-29256728/whirlpool-702-french-door-bottom-mount-steel-570-ltr-refrigerator-500x500.jpg",
+      "price": 28690,
       "ratings": 4,
-      "description": "The iPhone 14 Pro represents a duality, both as something  extremely similar to its predecessor while also being simultaneously new. It features a lot of camera upgrades and the Dynamic Island, which replaces the infamous notch five years after the notch’s debut on the iPhone X."
+      "description": "With this Whirlpool refrigerator in your home, eat fresh food every single day to live a healthy and happy life. This refrigerator features the Adaptive Intelligence technology, the IntelliSense Inverter Technology, and the Zeolite Technology for consistent cooling and long-lasting freshness of your edibles.."
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "title": "Samsung 4k smart tv",
       "img": "https://media.croma.com/image/upload/v1663785341/Croma%20Assets/Entertainment/Television/Images/252006_0_wzdpx1.png",
       "price": 61500,
-      "ratings": 5,
+      "ratings": 2,
       "description": "Indulge yourself in a world of infinite visual entertainment with the one-of-a-kind Samsung TV, which is packed with captivating features and will take your breath away with its remarkable performance. This TV offers a brilliant colour-enriched picture that brings out the best in every piece of material it displays, providing a fantastic viewing experience. Furthermore, when put in the living room, this TV attracts all of the attention it deserves because of its sleek, modern, and fantastic appearance. Furthermore, the Auto Low Latency Mode on this TV optimises your screen so you have better flexibility with decreased input lag."
     },
     {
@@ -49,20 +49,28 @@
       "description": "The sofa frame is made from seasoned solid wood that undergoes multi-step treatment for protection against termites and bugs."
     },
     {
+      "id": 3,
+      "title": "Apple iPhone 14 Pro ",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png/mxw_640,f_auto",
+      "price": 112000,
+      "ratings": 4,
+      "description": "The iPhone 14 Pro represents a duality, both as something  extremely similar to its predecessor while also being simultaneously new. It features a lot of camera upgrades and the Dynamic Island, which replaces the infamous notch five years after the notch’s debut on the iPhone X."
+    },
+    {
       "id": 7,
       "title": "LG washing machine",
       "img": "https://www.lg.com/in/images/washing-machines/md07518535/gallery/FHV1408ZWB-Washing-Machines-Front-View-Open-MZ-02.jpg",
       "price": 25990,
-      "ratings": 4,
+      "ratings": 2,
       "description": "Using the LG FHM1207SDL 7 kg Fully Automatic Front-loading Washing Machine makes washing clothing quick and easy. It features Allergy Care that eliminates the majority of viruses and ensures a sanitary wash each time. Also, the motor is directly attached to the drum, which eliminates the need for a pulley or belt, decreasing energy wastage, vibrations and noise. Furthermore, the 6 Motion DD technology optimises the washing motion according to the fabric type."
     },
     {
-      "id": 8,
-      "title": "Bed",
-      "img": "https://cdn.shopify.com/s/files/1/0099/2867/1291/products/FIQBGUNNERQBBDWG_2000x.jpg?v=1658997703",
-      "price": 32092,
-      "ratings": 5,
-      "description": "The Wakeup Pluto Wood Bed is comfortable and roomy. This traditional piece of furniture has plenty of storage space, making it the ideal bed for you. The beds quality appearance and feel are unrivaled. This is a timeless piece of furniture that you should not ignore. Its elegance will never leave the bedroom. Its modern yet traditional wooden attire will fill the place with scenic beauty."
+      "id": 14,
+      "title": "Study table",
+      "img": "https://cdn.shopify.com/s/files/1/0099/2867/1291/products/FLSDSCHOLARSDWLT01_2000x.jpg?v=1656487315",
+      "price": 9490,
+      "ratings": 3,
+      "description": "Compact Home Office Create the perfect work space comprising a generous desk and plenty of shelves with this work table and storage unit combo. The simple contemporary design of this piece is perfect for small spaces, making it a great addition to a student's bedroom and office table."
     },
     {
       "id": 9,
@@ -97,28 +105,20 @@
       "description": "You can work, play games, and do more effortlessly with the help of the Logitech MX Master 3S Wireless Mouse. Thanks to its high performance, this mouse offers optimal results. With up to 8k DPI tracking, this mouse can function smoothly on any surface including glass. In addition, owing to its MagSpeed control, this mouse can work at high speeds with utmost accuracy as it scrolls up to 1,000 lines per second and stops at a pixel."
     },
     {
-      "id": 13,
-      "title": "Whirlpool refrigerator",
-      "img": "https://5.imimg.com/data5/QT/FB/MY-29256728/whirlpool-702-french-door-bottom-mount-steel-570-ltr-refrigerator-500x500.jpg",
-      "price": 28690,
-      "ratings": 4,
-      "description": "With this Whirlpool refrigerator in your home, eat fresh food every single day to live a healthy and happy life. This refrigerator features the Adaptive Intelligence technology, the IntelliSense Inverter Technology, and the Zeolite Technology for consistent cooling and long-lasting freshness of your edibles.."
-    },
-    {
-      "id": 14,
-      "title": "Study table",
-      "img": "https://cdn.shopify.com/s/files/1/0099/2867/1291/products/FLSDSCHOLARSDWLT01_2000x.jpg?v=1656487315",
-      "price": 9490,
-      "ratings": 5,
-      "description": "Compact Home Office Create the perfect work space comprising a generous desk and plenty of shelves with this work table and storage unit combo. The simple contemporary design of this piece is perfect for small spaces, making it a great addition to a student's bedroom and office table."
-    },
-    {
       "id": 15,
       "title": "Philips air fryer",
       "img": "https://images.philips.com/is/image/philipsconsumer/ca545656e87d4df4bb17ad1e00b1dfe8",
       "price": 8900,
-      "ratings": 5,
+      "ratings": 4,
       "description": "This cooking appliance features a Detachable Non-stick Basket and Pan for your convenience, a Fast Air Circulation Technology for quick and even cooking, and Adjustable Temperature and Time functions to cook as per your preferences.."
+    },
+    {
+      "id": 16,
+      "title": "Sony  camera",
+      "img": "https://www.pngfind.com/pngs/m/648-6489782_photo-camera-png-image-transparent-sony-a9-camera.png",
+      "price": 78211,
+      "ratings": 3,
+      "description": "Featuring a 24.2-megapixel Exmor CMOS image sensor and the BIONZ X image processor, this mirrorless camera from Sony offers low-noise performance to ensure that your images are crystal clear. It also takes advantage of the AF Tracking Technology, so you can even click pictures of moving objects without any hassle."
     }
   ]
 }

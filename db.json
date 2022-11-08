@@ -17,7 +17,7 @@
       "description": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback1, adaptive triggers1 and 3D Audio*, and an all-new generation of incredible PlayStation games."
     },
     {
-      "id": 13,
+      "id": 3,
       "title": "Whirlpool refrigerator",
       "img": "https://5.imimg.com/data5/QT/FB/MY-29256728/whirlpool-702-french-door-bottom-mount-steel-570-ltr-refrigerator-500x500.jpg",
       "price": 28690,
@@ -49,7 +49,7 @@
       "description": "The sofa frame is made from seasoned solid wood that undergoes multi-step treatment for protection against termites and bugs."
     },
     {
-      "id": 3,
+      "id": 7,
       "title": "Apple iPhone 14 Pro ",
       "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png/mxw_640,f_auto",
       "price": 112000,
@@ -57,7 +57,7 @@
       "description": "The iPhone 14 Pro represents a duality, both as something  extremely similar to its predecessor while also being simultaneously new. It features a lot of camera upgrades and the Dynamic Island, which replaces the infamous notch five years after the notch’s debut on the iPhone X."
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "LG washing machine",
       "img": "https://www.lg.com/in/images/washing-machines/md07518535/gallery/FHV1408ZWB-Washing-Machines-Front-View-Open-MZ-02.jpg",
       "price": 25990,
@@ -65,7 +65,7 @@
       "description": "Using the LG FHM1207SDL 7 kg Fully Automatic Front-loading Washing Machine makes washing clothing quick and easy. It features Allergy Care that eliminates the majority of viruses and ensures a sanitary wash each time. Also, the motor is directly attached to the drum, which eliminates the need for a pulley or belt, decreasing energy wastage, vibrations and noise. Furthermore, the 6 Motion DD technology optimises the washing motion according to the fabric type."
     },
     {
-      "id": 14,
+      "id": 9,
       "title": "Study table",
       "img": "https://cdn.shopify.com/s/files/1/0099/2867/1291/products/FLSDSCHOLARSDWLT01_2000x.jpg?v=1656487315",
       "price": 9490,
@@ -73,7 +73,7 @@
       "description": "Compact Home Office Create the perfect work space comprising a generous desk and plenty of shelves with this work table and storage unit combo. The simple contemporary design of this piece is perfect for small spaces, making it a great addition to a student's bedroom and office table."
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Asics men shoes",
       "img": "https://images.asics.com/is/image/asics/1011B584_400_SR_RT_GLB?$sfcc-product$",
       "price": 3578,
@@ -81,7 +81,7 @@
       "description": "The dynablast running shoe comfortably locks the shoe around the foot like a gentle hug. This design means there are fewer layers of material, resulting in a light, breathable upper. The upper, combined with a responsive underfoot ride, makes this new dynablast style feel springy and energetic. It is recommend for runners who want a fun underfoot experience in their training."
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Tshirt",
       "img": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
       "price": 780,
@@ -89,7 +89,7 @@
       "description": "Built on the pillars of quality, reliability and affordability to offer you lifestyle essentials that never go out of fashion. Never out of style, Symbol’s classic stripe polo t-shirt, comes in an easy, regular fit. Ribbed collar & sleeves provide a better grip and accent color stripe at collar and sleeve adds to the sporty look.."
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Office chair",
       "img": "https://wfh.transteel.com/wp-content/uploads/2022/07/Fluid-Lite-Mid-Back-Black-1.jpg",
       "price": 5699,
@@ -97,7 +97,7 @@
       "description": "Da URBAN Mid-Back Office Chair This Da URBAN Mid-Back Office Chair is made with quality materials that will never bend, break or malfunction. Our chairs are crafted to perfection and designed to the bodies natural shape, Cushioned backrest designed and seat upholstered in leather make you feel comfortable during long time working. Great Office chairs in office, conference, home, colleague, reception desk, etc. Passed BIFMA certification, more reliable and sturdy for your daily working."
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Logitech mouse",
       "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1659190314/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/258454_yxkufr.png/mxw_640,f_auto",
       "price": 10995,
@@ -105,7 +105,7 @@
       "description": "You can work, play games, and do more effortlessly with the help of the Logitech MX Master 3S Wireless Mouse. Thanks to its high performance, this mouse offers optimal results. With up to 8k DPI tracking, this mouse can function smoothly on any surface including glass. In addition, owing to its MagSpeed control, this mouse can work at high speeds with utmost accuracy as it scrolls up to 1,000 lines per second and stops at a pixel."
     },
     {
-      "id": 15,
+      "id": 14,
       "title": "Philips air fryer",
       "img": "https://images.philips.com/is/image/philipsconsumer/ca545656e87d4df4bb17ad1e00b1dfe8",
       "price": 8900,
@@ -113,12 +113,20 @@
       "description": "This cooking appliance features a Detachable Non-stick Basket and Pan for your convenience, a Fast Air Circulation Technology for quick and even cooking, and Adjustable Temperature and Time functions to cook as per your preferences.."
     },
     {
-      "id": 16,
+      "id": 15,
       "title": "Sony  camera",
-      "img": "https://www.pngfind.com/pngs/m/648-6489782_photo-camera-png-image-transparent-sony-a9-camera.png",
+      "img": "https://www.pngmart.com/files/6/DSLR-Camera-PNG-Clipart.png",
       "price": 78211,
       "ratings": 3,
       "description": "Featuring a 24.2-megapixel Exmor CMOS image sensor and the BIONZ X image processor, this mirrorless camera from Sony offers low-noise performance to ensure that your images are crystal clear. It also takes advantage of the AF Tracking Technology, so you can even click pictures of moving objects without any hassle."
+    },
+    {
+      "id": 16,
+      "title": "Bed",
+      "img": "https://cdn.shopify.com/s/files/1/0099/2867/1291/products/FIQBGUNNERQBBDWG_2000x.jpg?v=1658997703",
+      "price": 32092,
+      "ratings": 5,
+      "description": "The Wakeup Pluto Wood Bed is comfortable and roomy. This traditional piece of furniture has plenty of storage space, making it the ideal bed for you. The beds quality appearance and feel are unrivaled. This is a timeless piece of furniture that you should not ignore. Its elegance will never leave the bedroom. Its modern yet traditional wooden attire will fill the place with scenic beauty."
     }
   ]
 }
